@@ -1,0 +1,8 @@
+openapi: 3.0.3
+servers:
+- url: http://localhost:5089/
+  description: url Local
+- url: https://dev.nttdata.com/msuser/
+  description: url Desarrollo
+- url: https://nttdata.com/msuser/
+  description: url Produccion
